@@ -1,6 +1,6 @@
 """ Aceasta este documentatia pentru modul
 """
-import modulul_meu
+import Ziua1.modulul_meu as modulul_meu
 
 
 def adunare(a, b):

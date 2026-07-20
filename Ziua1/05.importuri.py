@@ -13,5 +13,5 @@ print(pi)
 import numpy as np
 
 ## Module proprii
-from modulul_meu import adunare
+from Ziua1.modulul_meu import adunare
 print(adunare(10, 6))
